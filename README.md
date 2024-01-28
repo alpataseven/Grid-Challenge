@@ -6,7 +6,7 @@
 
 # Design of myself (Desktop)
 
-![Design preview for the Testimonials grid section coding challenge](./design/Grid-challenge-desktop.jpg)
+![Design preview for the Testimonials grid section coding challenge](./design/Grid-challenge-desktop.png)
 
 # Original (Mobile)
 
@@ -14,7 +14,7 @@
 
 # Design of myself (Mobile)
 
-![Design preview for the Testimonials grid section coding challenge](./design/Grid-challenge-mobile.jpg)
+![Design preview for the Testimonials grid section coding challenge](./design/Grid-challenge-mobile.png)
 
 **Thanks**
 
